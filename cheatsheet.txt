@@ -1,0 +1,17 @@
+TERMINAL COMMANDS:
+
+My Git clone command: git clone --config="http.proxy=http://pai2365:pai1312545@192.168.2.1:8080" https://github.com/pai2365-cmis/pai2365-cmis-wd.git
+
+ls <directory name>:  List contents of a directory
+cd: Go home.
+cd <directory name>:  Change directory
+cd ..: Go up (one level in the file)
+cat <file name>: View the contents of a file
+gedit <file name> &
+
+GIT COMMANDS:
+git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
+git add <file name>
+git commit -m "Commit Comment"
+git push
+
