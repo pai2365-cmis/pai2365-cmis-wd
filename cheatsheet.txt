@@ -8,10 +8,19 @@ cd <directory name>:  Change directory
 cd ..: Go up (one level in the file)
 cat <file name>: View the contents of a file
 gedit <file name> &
+python -m SimpleHTTPServer - Start the development server - it allows you to look at your webpage server. 
 
 GIT COMMANDS:
 git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
 git add <file name>
 git commit -m "Commit Comment"
 git push
+
+sftp Commands:
+sftp username@cmis-hsteacher 
+ls - same as terminal
+cd - same as terminal
+prepend a command with ! to execute it on local
+put <filename> - upload a file
+get <filename> - upload a file
 
