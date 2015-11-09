@@ -1,0 +1,23 @@
+h1{
+	color: blue;
+	background: white;
+	
+} 
+main{
+	color: white;
+	background: black;
+}
+h2{
+	color: red;
+	background: yellow;
+}
+p{
+	color: purple;
+	background: yellow;
+}
+footer{ 
+	color: green;
+	background: red;
+}
+
+	
