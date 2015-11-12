@@ -31,7 +31,6 @@ How to move files to the prodcution server:
 4) The command promt (the fron part) will become sftp>
 5) type sftp> ls, it should say public_html.
 
-
 to put file in the cmis-hsteacher, type put filename. 
 to remove file from cmis-hsteacher, type rm filename. 
 Short cut:
@@ -39,5 +38,4 @@ rm *
 put * 
  
 
-4)
 
