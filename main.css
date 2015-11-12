@@ -1,6 +1,6 @@
 h1{
 	color: #fdff34;
-	background: #ffdea1;
+	background-color: #ffdea1;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-style: oblique;
 	border-style: groove;
@@ -9,40 +9,60 @@ h1{
 } 
 main{
 	color: white;
-	background: #ffb6c1; 
+	background-color: #ffb6c1; 
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-style: inherit;
+	font-variant: small-caps;
 	font-size: 32px;
 	border-style: hidden;
 	
 }
 h2{
-	color: red;
-	background: yellow;
+	color: #ff7f6a;
+	background-color: yellow;
 	font-family: "Courier New", Courier, monospace;
 	font-style: inherit;
 	border-style: outset;
-	border-width:13px;
+	border-right-style: dotted; 
 	font-size: 32px;
-	border-width: 50px;
+	border-width: 23px;
 	border-color: #33dfed;
 }
 p{
 	color: purple;
-	background: yellow;
+	background-color: yellow;
 	font-family: "Lucida Console", Monaco, monospace;
 	font-style: italic; 
 	border-style: dashed; 
 }
 footer{ 
 	color: green;
-	background: red;
+	background-color: red;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-style: italic; 
 	border-style: double; 
 	font-size: 45px; 
 }
 body{
-	background-color: #ffb6c1;
+	background-color: #00ffff;
+	border-style: dotted;
+	font-style: italic;
 }
+
+/*
+Create a new file called "main.css"
+Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+Edit the main.css file
+add a declaration for each element in the body of your index.html file.
+add properties to style the background color of each element.
+add properties to style the border of each element.
+add properties to style the font of each element.
+View your index.html in the development server.
+Validate your index.html file.
+Validate your main.css file.
+Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server.
+*/
 	
