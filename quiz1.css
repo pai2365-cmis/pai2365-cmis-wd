@@ -1,0 +1,118 @@
+h1{
+	color: yellow;
+	background-color: green;
+	font-family: Impact, Charcoal, sans-serif;
+	font-style: oblique;
+	border-bottom-style: dashed;
+	font-size: 25px; 
+	border-width: 5px;
+}
+p1{
+	color: blue;
+	background-color: red;
+	font-family:  Impact, Charcoal, sans-serif;
+	font-style: oblique;
+	border-bottom-style: dashed;
+	border-color: yellow; 
+	font-size: 14px; 
+	border-width: 4px;
+}
+main{
+	background-color: white;
+	border-left-style: groove;
+	border-left-color: orange; 
+	border-right-style: groove;
+	border-right-color: orange; 
+	border-width: 12px;
+}
+h2{
+	color: yellow;
+	background-color: purple;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	font-size: 15px; 
+}
+h3{ 
+	color: purple;
+	background-color: yellow;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	border-top-style: dashed;
+	font-size: 15px; 
+	border-width: 3px;
+}
+p{
+	color: blue;
+	background-color: white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	font-size: 15px; 
+}
+h4{ 
+	color: purple;
+	background-color: yellow;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	border-top-style: dashed;
+	font-size: 15px; 
+	border-width: 3px;
+}
+p{
+	color: blue;
+	background-color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+	font-style: normal;
+	font-size: 15px; 
+}
+h5{
+	color: yellow;
+	background-color: purple;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	font-size: 15px; 
+}
+h6{ 
+	color: purple;
+	background-color: yellow;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	border-top-style: dashed;
+	font-size: 15px; 
+	border-width: 3px;
+}
+p{
+	color: blue;
+	background-color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	font-size: 15px; 
+}h7{ 
+	color: purple;
+	background-color: yellow;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	border-top-style: dashed;
+	font-size: 15px; 
+	border-width: 3px;
+}
+p{
+	color: blue;
+	background-color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	font-size: 15px; 
+}
+footer{
+	border-left-style: solid;
+	border-left-color: red;
+	border-left-width: 8px; 
+	border-right-style: solid;
+	border-right-color: blue;
+	border-right-width: 8px; 
+	border-top-style: dotted; 
+	border-top-color: gray;
+	border-top-width: 2px; 
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size:15px; 
+	color: blue;
+} 
