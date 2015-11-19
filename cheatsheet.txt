@@ -41,8 +41,11 @@ Short cut:
 rm *
 put * 
 
+********************************ALWAYS PYTHON IN YOUR RESPOSITORY FOLDER	
 when you are in your respository folder: to see your index on google, type localhost:8000
-                                         to have a specific file 
+                                         to have a specific file type localhost:8000/foldername/filename. 
+
+To view your work from porduction server: type cmis-hsteacher/~username/filename.************************************
  
 
 
