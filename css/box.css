@@ -20,8 +20,39 @@ html {
 	height: 1000px; 
 	margin: 50px; 
 }
-h2{ 
-	
-	
-
+h2 + table{ 
+	border: 15px dashed #ffcc66; 
+	width: 1000px; 
+	background-color: #99ffff; 
+	height: 20px;  
+	padding: 5px; 
+}
+table{
+	border: 10px groove #ff0033; 
+	background-color: #ffff99; 
+}
+th{
+	border: 10px groove #ff0033; 
+	background-color: #ffff99; 
+}
+td{
+	border: 10px groove #99ccff; 
+	background-color: #ffff99; 
+}
+footer {
+	margin-top: 50px; 
+	border-top: 20px groove green; 
+	border-left: 30px double red; 
+}
+li{
+	border: 20px solid gray; 
+	background-color: white; 
+	height: 10px; 	
+	padding: 100px; 
+}
+h3{
+	border: 15px groove #3366ff; 
+	background-color: #9999ff; 
+	padding: 50px;     
+}
 
