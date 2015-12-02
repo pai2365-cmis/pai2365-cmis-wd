@@ -6,25 +6,28 @@ header {
 	margin: 50px; 
 	height: 100px; 
 }
-nav {
+nav > ul{
 	background-color: yellow; 
 	width: 100px; 
 	border: 60px dotted red; 
-	height: 100px; 
+	height: 300px; 
 	margin: 20px; 
 	padding: 70px; 
 }
-html {
+nav{
+	border: 90px groove blue; 
+}
+html{
 	background-color: #ff9999; 
 	width: 1000px; 
 	height: 1000px; 
 	margin: 50px; 
 }
-h2 + table{ 
+h2 + ol{ 
 	border: 15px dashed #ffcc66; 
 	width: 1000px; 
 	background-color: #99ffff; 
-	height: 20px;  
+	height: 800px;  
 	padding: 5px; 
 }
 table{
@@ -47,12 +50,21 @@ footer {
 li{
 	border: 20px solid gray; 
 	background-color: white; 
-	height: 10px; 	
-	padding: 100px; 
+	height: 50px; 	
+	padding: 20px; 
+	width: 200px; 
 }
 h3{
 	border: 15px groove #3366ff; 
 	background-color: #9999ff; 
 	padding: 50px;     
 }
-
+body footer{
+	border: 15px dotted #33eeff; 
+	background-color: #5599ff; 
+	padding: 100px;     
+}
+h2{
+	background-color: green; 
+	border: solid navy; 
+}
