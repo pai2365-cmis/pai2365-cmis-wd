@@ -1,0 +1,56 @@
+header{
+	background-color: red; 
+	border: 5px solid red; 
+	width: 500px; 
+}
+header{
+	background-color: red; 
+	border: 5px solid red; 
+	width: 500px; 
+}
+h1{
+	background-color: red; 
+	border: 25px solid yellow; 
+	width: 300px;  
+}
+nav{
+	background-color: white; 
+	border: 2px solid black; 
+	width: 800px;
+	height: 300px; 
+	margin-left: 400px; 
+}
+p{
+	background-color: red; 
+	border: 25px solid red; 
+	width: 300px;
+	height: 200px; 
+	margin-left: 0px; 
+}
+table{
+	border: 5px solid gray; 
+	border-collapse: collapse; 
+	margin-left: 400px; 
+}
+th{
+	border: 5px solid gray; 
+	background-color: yellow; 
+}
+td{
+	border: 5px solid gray; 
+	background-color: white;
+	color: black;
+	border-collapse: collapse;   
+}
+main{ 
+	background-color: gray; 
+	border-color: gray; 
+}
+footer p {
+	border: 6px solid blue; 
+	background-color: blue; 
+}
+footer{
+	border: 6px dashed blue; 
+	padding: 20px; 
+}	 
