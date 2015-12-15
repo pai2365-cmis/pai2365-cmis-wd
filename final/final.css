@@ -1,0 +1,48 @@
+h1{
+	border: groove 10px #daa520; 
+	background-color: #f08080; 
+	color: #483b8b; 
+}
+nav{
+	float: left;
+	border: solid 5px; 
+	background-color: red; 
+	color: black; 
+}
+body{
+	float: right;  
+}
+h2{
+
+}
+ul{
+	clear: left; 
+	margin-bottom: 100px; 
+}
+main{
+	margin-left: 124px;
+	margin-right: 120px;  
+	border: groove 20px #a52a2a;
+	width: 1200px;
+	background-color: #f0e68c; 
+}
+footer{
+
+}
+img{
+	float: right;
+	clear: both;         
+	margin-right: 500px; 
+}
+h3{
+	border: solid 10px #b0e0e6;
+}
+p{
+	border: groove 10px yellow; 
+	float: left;
+	clear: left;
+	width: 300px;   
+}
+footer{
+	margin-left: 150px; 
+}
