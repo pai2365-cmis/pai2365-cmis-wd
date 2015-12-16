@@ -13,7 +13,8 @@ nav{
 	clear: left; 
 }
 body{
-	float: right;  
+	float: right;
+	background: url(../final/images/Wallpaper.png)
 }
 h2{
 	border: dashed 10px #51cb59;
